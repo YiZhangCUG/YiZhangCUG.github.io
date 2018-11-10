@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我的书单
+title: My book list
 permalink: /books/
 ---
 
@@ -8,18 +8,18 @@ permalink: /books/
 {:toc}
 
 
-2018书单
+2018
 -----------------------------------------------------------------
 
-+ 科技书籍
++ Science and technique
    + 《Python 科学计算》
    + 《鸟哥的Linux私房菜基础学习篇-第三版》
    + 《机器学习系统设计》
    + 《机器学习--使用案例分析》
-+ 文史
++ Literature and history
    + 《沉默的大多数》
    + 《极简欧洲史》
-+ 小说
++ Novel
    + 《白夜行》
    + 《嫌疑人X的献身》
    + 《虚无的十字架》

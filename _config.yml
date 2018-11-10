@@ -3,13 +3,12 @@ name: Practice makes perfect
 email: zhangyiss@icloud.com
 author: Yi Zhang
 url: https://yizhangcug.github.io
-resume_site: https://yizhangcug.github.io
 github: https://github.com/YiZhangCUG
 baseurl: ''
 description: Actually, practice makes better!
-meta_description: 张壹;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+meta_description: Yi Zhang;Personal blog
 motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+banner: Learning without thinking makes confusion. Thinking without learning makes slack.
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
