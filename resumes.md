@@ -9,9 +9,9 @@ permalink: /resumes/
 
 
 
-345 Middlefield Road, Menlo Park, CA 94025, USA
-+1 (650) 223-4728
-<zhangyi.cugwuhan@gmail.com>
+345 Middlefield Road, Menlo Park, CA 94025, USA  
++1 (650) 223-4728  
+<zhangyi.cugwuhan@gmail.com>  
 
 Skills Summary
 ------------------
