@@ -10,8 +10,6 @@ tag: Tutorial
 {:toc}
 
 
-# 使用Markdown编写博客
-
 Markdown是一种优秀的标记语言。它很简单，你可能只需要花上几十分钟便能大致掌握这种语言。它也很强大，你可以轻松的编辑列表、引用、图表、数学公式等等。不仅如此，你还可以将写好的Markdown文本转换为各种其他的格式，比如html、docx和pdf。总之，Markdown是一种值得学习和使用的标记语言。这里，我们不会对Markdown重新进行介绍（有需要的同学请[戳我](https://en.wikipedia.org/wiki/Markdown)），我们要做的是实践我们在使用Markdown编写博客的过程中可能需要使用的标记和语法。
 
 ## 插入数学公式
