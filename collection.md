@@ -14,4 +14,5 @@ Geophysics
 
 Friends
 ---------------------
-[kiciollo](http://kiciollo.github.io) -- An outstanding Ph.D. of geophysics and a great gamer.
+[kiciollo](http://kiciollo.github.io)
+[九天学者](https://www.g4-research.com)
