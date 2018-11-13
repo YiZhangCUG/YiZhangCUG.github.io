@@ -57,3 +57,5 @@ Participate in academic activities
 + 2017.01 in Huston, TX, USA. Math + X Symposium on Seismology and Inverse Problems;
 + 2017.06 in South Hardly, MA, USA. Gordon Research Conferences: Interior of the Earth, poster presentation;
 + 2017.12 in New Orleans, LA, USA. The AGU Fall Meeting.
+
+[Download the pdf version](/assets/docs/Resumes_ZY.pdf)

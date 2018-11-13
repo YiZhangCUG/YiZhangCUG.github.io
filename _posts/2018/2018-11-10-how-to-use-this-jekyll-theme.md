@@ -2,8 +2,8 @@
 layout: post
 title:  如何使用LessOrMore这个Jekyll模版
 date:   2018-11-10 11:57:00 -0800
-categories: Document
-tag: Tutorial
+categories: [Document]
+tag: [Tutorial,Jekyll]
 ---
 
 * content

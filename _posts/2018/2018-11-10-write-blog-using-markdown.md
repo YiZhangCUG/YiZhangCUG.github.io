@@ -2,8 +2,8 @@
 layout: post
 title:  使用Markdown编写博客
 date:   2018-11-10 15:50:00 -0800
-categories: Document
-tag: Tutorial
+categories: [Document]
+tag: [Tutorial]
 ---
 
 * content
@@ -24,6 +24,10 @@ $$E=mc^2$$
 #!/bin/bash
 echo "Hello World!"
 ```
+
+## 插入图片
+
+[中国地质大学（武汉）校徽](/assets/images/cug-logo.png)
 
 
 

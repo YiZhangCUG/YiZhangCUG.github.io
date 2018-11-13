@@ -11,11 +11,11 @@ tags: [Shell,Git,Jekyll]
 
 
 
-[Download the source from Github](https://github.com/YiZhangCUG/OpenSourcePrograms)
+[Download the source code from Github](https://github.com/YiZhangCUG/OpenSourcePrograms)
 
 ## Installation
 
-**postToBolg** is a shell script that posts a markdown file to a [Github.pages](https://pages.github.com) hosted personal blog from terminal. The blog must be powered by the [Jekyll](https://jekyllrb.com). The To use it, simply copy the shell scripts *dispOption.sh* and postToBlog.sh into any directory that is included in your $PATH, then reopen the terminal. You should be good to go by then.
+**postToBolg** is a shell script that posts a markdown file to a [Github.pages](https://pages.github.com) hosted personal blog from terminal. The blog must be powered by the [Jekyll](https://jekyllrb.com). To use it, simply copy the shell scripts *dispOption.sh* and *postToBlog.sh* into any directory that is included in your $PATH, then reopen the terminal. You should be good to go by then.
 
 ## Setup
 
