@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "shell-templates"
-date: 2018-11-13 19:44:15 -0800
+date: 2018-11-13 19:49:28 -0800
 categories: [Command Line Tools]
 tags: [Shell]
 ---
