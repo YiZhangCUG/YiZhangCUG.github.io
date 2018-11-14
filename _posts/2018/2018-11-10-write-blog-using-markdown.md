@@ -27,7 +27,7 @@ echo "Hello World!"
 
 ## 插入图片
 
-![中国地质大学（武汉）校徽](/assets/images/cug-logo.png)
+![中国地质大学（武汉）校徽](/assets/2018-11/cug-logo.png)
 
 
 

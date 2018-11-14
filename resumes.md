@@ -58,4 +58,4 @@ Participate in academic activities
 + 2017.06 in South Hardly, MA, USA. Gordon Research Conferences: Interior of the Earth, poster presentation;
 + 2017.12 in New Orleans, LA, USA. The AGU Fall Meeting.
 
-[Download the pdf version](/assets/docs/Resumes_ZY.pdf)
+[Download the pdf version](/assets/2018-11/Resumes_ZY.pdf)
