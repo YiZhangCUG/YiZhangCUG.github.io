@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "post2blog: Update from postToBlog to post2blog"
-date: 2018-11-13 20:39:11 -0800
+date: 2018-11-13 20:43:16 -0800
 categories: [Command Line Tools]
-tags: [shell,git,jekyll]
+tags: [Shell,Git,Jekyll]
 ---
 
 * content
