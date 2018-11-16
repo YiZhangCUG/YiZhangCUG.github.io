@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "gmtxy-image: 2D grid data image mapping using shell script and GMT5 under the Cartesian coordinates"
-date: 2018-11-15 21:26:58 -0800
+date: 2018-11-15 21:29:13 -0800
 categories: [Command Line Tools]
 tags: [Shell,GMT]
 ---
@@ -49,7 +49,7 @@ The only argument you need to input is name of the grid file to get a glance of 
 The following is used to draw the `example.nc`. Names of the output files are taken from the input grid file. Moreover, the script will output a png (no background) and a eps file.
 
 ```bash
-gmtsph-regional -i exmaple.nc
+gmtxy-image -i exmaple.nc
 ```
 
 The output should be as below.
