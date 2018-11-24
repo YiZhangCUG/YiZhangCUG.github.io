@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "post2blog: Update from postToBlog to post2blog"
+title: post2blog
+subtitle: "Updating from postToBlog to post2blog."
 author: Yi Zhang
 date: 2018-11-14 18:01:57 -0800
 category:  program
-tags: [Shell,Git,Jekyll]
-header-img: "img/lamp.jpg"
+tags: [Git,Jekyll]
+header-img: "img/lamp.jpeg"
 ---
 
 * content

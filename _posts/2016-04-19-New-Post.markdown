@@ -2,10 +2,10 @@
 layout:     post
 title:      New Post
 author:     Ahmet Cecen
-tags: 		post template
+tags: tutorial
 subtitle:  	Some Short Description of Post
 category:  document
-header-img: "img/lamp.jpg"
+header-img: "img/lamp.jpeg"
 ---
 <!-- Start Writing Below in Markdown -->
 

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "pymail: Sending emails from terminal"
+title: pymail
+subtitle: "Sending emails from terminal."
 author: Yi Zhang
 date: 2018-11-14 20:27:59 -0800
 category:  program
 tags: [Python]
-header-img: "img/lamp.jpg"
+header-img: "img/lamp.jpeg"
 ---
 
 * content

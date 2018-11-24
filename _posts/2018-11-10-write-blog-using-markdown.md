@@ -4,8 +4,8 @@ title:  使用Markdown编写博客
 author: Yi Zhang
 date:   2018-11-10 15:50:00 -0800
 category:  document
-tag: [Tutorial]
-header-img: "img/lamp.jpg"
+tag: [tutorial]
+header-img: "img/lamp.jpeg"
 ---
 
 * content

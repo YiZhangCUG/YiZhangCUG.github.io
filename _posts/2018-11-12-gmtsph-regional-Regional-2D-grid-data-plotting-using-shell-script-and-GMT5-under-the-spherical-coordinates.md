@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "gmtsph-regional: Regional 2D grid data plotting using shell script and GMT5 under the spherical coordinates"
+title: gmtsph-regional
+subtitle: "Regional 2D grid data plotting using shell script and GMT5 under the spherical coordinates."
 author: Yi Zhang
 date: 2018-11-12 23:04:02 -0800
-category:  document
-tags: [Shell,GMT]
-header-img: "img/lamp.jpg"
+category:  program
+tags: [GMT]
+header-img: "img/light.jpeg"
 ---
 
 * content

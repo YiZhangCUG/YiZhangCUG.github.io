@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Forward calculation of topographic or gravitational data using spherical harmonic coefficients"
+title: sh2xyz
+subtitle: "Forward calculation of topographic or gravitational data using spherical harmonic coefficients."
 author: Yi Zhang
 date: 2018-11-21 18:51:30 -0800
 category:  program
-tags: [Forward modeling,C++]
-header-img: "img/lamp.jpg"
+tags: [Forward modeling]
+header-img: "img/gravity-wave.jpg"
 ---
 
 * content

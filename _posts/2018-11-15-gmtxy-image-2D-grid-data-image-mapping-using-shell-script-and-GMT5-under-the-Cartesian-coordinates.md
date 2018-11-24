@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "gmtxy-image: 2D grid data image mapping using shell script and GMT5 under the Cartesian coordinates"
+title: "gmtxy-image"
+subtitle: "2D grid data image mapping using shell script and GMT5 under the Cartesian coordinates."
 author: Yi Zhang
 date: 2018-11-15 21:29:13 -0800
 category:  program
-tags: [Shell,GMT]
-header-img: "img/lamp.jpg"
+tags: [GMT]
+header-img: "img/light.jpeg"
 ---
 
 * content

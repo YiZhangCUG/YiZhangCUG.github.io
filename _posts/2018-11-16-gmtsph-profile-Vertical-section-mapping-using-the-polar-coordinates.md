@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "gmtsph-profile: Vertical section mapping using the polar coordinates"
+title: gmtsph-profile
+subtitle: "Vertical section mapping using the polar coordinates."
 author: Yi Zhang
 date: 2018-11-16 20:17:51 -0800
 category:  program
-tags: [Shell,GMT]
-header-img: "img/lamp.jpg"
+tags: [GMT]
+header-img: "img/light.jpeg"
 ---
 
 * content

@@ -2,11 +2,11 @@
 layout:     post
 title:      New Matlab Script
 author:     Ahmet Cecen
-tags: 		matlab workflows template
+tags: 		matlab workflows tutorial
 subtitle:   Some Short Description of the Script
 category:  document
 visualworkflow: true
-header-img: "img/lamp.jpg"
+header-img: "img/lamp.jpeg"
 ---
 {% if page.visualworkflow == true %}
    {% include workflowmatlab.html %}
