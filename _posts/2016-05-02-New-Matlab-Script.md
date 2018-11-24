@@ -6,6 +6,7 @@ tags: 		matlab workflows template
 subtitle:   Some Short Description of the Script
 category:  document
 visualworkflow: true
+header-img: "img/lamp.jpg"
 ---
 {% if page.visualworkflow == true %}
    {% include workflowmatlab.html %}

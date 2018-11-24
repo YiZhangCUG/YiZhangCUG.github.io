@@ -5,7 +5,7 @@ author: Yi Zhang
 date: 2018-11-21 18:51:30 -0800
 category:  program
 tags: [Forward modeling,C++]
-header-img: "img/programs-bg.jpeg"
+header-img: "img/lamp.jpg"
 ---
 
 * content

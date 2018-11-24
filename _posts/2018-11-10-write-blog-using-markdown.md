@@ -5,6 +5,7 @@ author: Yi Zhang
 date:   2018-11-10 15:50:00 -0800
 category:  document
 tag: [Tutorial]
+header-img: "img/lamp.jpg"
 ---
 
 * content

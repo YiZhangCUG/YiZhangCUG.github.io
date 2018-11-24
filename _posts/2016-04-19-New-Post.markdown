@@ -5,6 +5,7 @@ author:     Ahmet Cecen
 tags: 		post template
 subtitle:  	Some Short Description of Post
 category:  document
+header-img: "img/lamp.jpg"
 ---
 <!-- Start Writing Below in Markdown -->
 

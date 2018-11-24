@@ -5,6 +5,7 @@ author: Yi Zhang
 date: 2018-11-14 18:01:57 -0800
 category:  program
 tags: [Shell,Git,Jekyll]
+header-img: "img/lamp.jpg"
 ---
 
 * content
