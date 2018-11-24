@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My book list
+author: Yi Zhang
 permalink: /books/
 ---
 
