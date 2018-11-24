@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Publications
+date:   2018-11-10 15:50:00 -0800
 author: Yi Zhang
 permalink: /publications/
 ---
