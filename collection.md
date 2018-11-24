@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Site collection
+author: Yi Zhang
 permalink: /collection/
 ---
 
