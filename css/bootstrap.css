@@ -3204,7 +3204,7 @@ tbody.collapse.in {
   font-size: 14px;
   text-align: left;
   list-style: none;
-  background-color: #a0a0a0;
+  background-color: rgba(160,160,160,0.75);
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
   border: 1px solid #ccc;
@@ -3221,7 +3221,7 @@ tbody.collapse.in {
   height: 1px;
   margin: 9px 0;
   overflow: hidden;
-  background-color: #e5e5e5;
+  background-color: rgba(229,229,229,0.75);
 }
 .dropdown-menu > li > a {
   display: block;
@@ -3237,7 +3237,7 @@ tbody.collapse.in {
 .dropdown-menu > li > a:focus {
   color: #262626;
   text-decoration: none;
-  background-color: #606060;
+  background-color: rgba(96,96,96,0.75);
 }
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:hover,
