@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Yi Zhang
+title: Resumes
+date:   2018-11-10 15:50:00 -0800
 permalink: /resumes/
 ---
 
@@ -8,6 +9,8 @@ permalink: /resumes/
 {:toc}
 
 
+
+# Yi Zhang
 
 345 Middlefield Road, Menlo Park, CA 94025, USA  
 +1 (650) 223-4728  

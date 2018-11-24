@@ -1,28 +1,154 @@
 # Site settings
-name: Practice makes perfect
-email: zhangyiss@icloud.com
-author: Yi Zhang
-url: https://yizhangcug.github.io
-github: https://github.com/YiZhangCUG
-baseurl: ''
-description: Actually, practice makes better!
-meta_description: Yi Zhang;Personal blog
-motto: It's our wits that make us men.
-banner: Learning without thinking makes confusion. Thinking without learning makes slack.
+title: GravTalk
+description: "It's our wits that make us men."
+url: "https://yizhangcug.github.io"
 
-#permalink: /:categories/:year/:month/:day/:title/
-permalink: /:year/:month/:day/:title/
-paginate: 10
+# Secondary Parameters
+baseurl: ""
+header-img: img/home-bg.jpg
+headercolor: "#FFFFFF"
+logo: img/logos/gravtalk-logo.png
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-
-github_username: YiZhangCUG
-
-plugins: [jekyll-paginate]
+# Tertiary Parameters
+github_username:  YiZhangCUG
+project_repository: YiZhangCUG.github.io.git
+disqus_shortname: project-pages
+g-analytics: UA-75881392-1
+altmetric: true
 
 # Build settings
+plugins: [jekyll-paginate]
 markdown: kramdown
-# mathjax: true
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+# Jekyll Settings
+defaults:
+  -
+    scope:
+      path: "projects"
+      type: "pages"
+    values:
+      layout: "project"
+      header-img: "img/home-bg.jpg"
 
+# Prose Settings
+prose:
+  ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
+  siteurl: 'http://projectpages.github.io/project-pages/'
+  ispp: true
+  media: 'img'
+  metadata:
+    projects:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "description"
+        field:
+          element: "text"
+          label: "Description"
+          value: ""
+      - name: "category"
+        field:
+          element: "text"
+          label: "Project"
+          value: ""           
+    _posts:
+      - name: "subtitle"
+        field:
+          element: "text"
+          label: "Sub-Title (Short Description)"
+          value: ""
+      - name: "layout"
+        field:
+          element: "select"
+          label: "Choose Layout"
+          placeholder: "Layouts"
+          options:
+            - name: "Post"
+              value: "post"
+            - name: "Slide"
+              value: "slide"
+            - name: "Projector"
+              value: "projector"
+            - name: "Notebook"
+              value: "notebook"
+            - name: "Ply Surface"
+              value: "plysurface"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: ""
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Tags (seperate with whitespace)"
+          value: ""
+      - name: "category"
+        field:
+          element: "text"
+          label: "Project"
+          value: ""    
+      - name: "horizontal"
+        field:
+          element: "hidden"
+          value: </section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+      - name: "vertical"
+        field:
+          element: "hidden"
+          value: </section><section markdown="1">
+      - name: "slideinit"
+        field:
+          element: "hidden"
+          value: <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+      - name: "theme"
+        field:
+          element: "select"
+          label: "Theme (Slide)"
+          placeholder: "Theme (Slide)"
+          options:
+            - name: "Beige"
+              value: "beige"
+            - name: "Blood"
+              value: "blood"
+            - name: "Moon"
+              value: "moon"          
+            - name: "Night"
+              value: "night"
+            - name: "Sky"
+              value: "sky"
+            - name: "Solarized"
+              value: "solarized"             
+      - name: "trans"
+        field:
+          element: "select"
+          label: "Transition (Slide)"
+          placeholder: "Transition (Slide)"
+          options:
+            - name: "Cube"
+              value: "cube"
+            - name: "Page"
+              value: "page"
+            - name: "Concave"
+              value: "concave"          
+            - name: "Linear"
+              value: "linear"
+            - name: "Fade"
+              value: "fade"
+            - name: "None"
+              value: "none"             
+      - name: "visualworkflow"
+        field:
+          element: "checkbox"
+          label: "Visual Workflow Chart (Some Layouts)"
+          value: "true"
