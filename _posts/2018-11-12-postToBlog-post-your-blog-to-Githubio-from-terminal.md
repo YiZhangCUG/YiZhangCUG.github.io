@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "postToBlog: post your blog to Github.io from terminal"
+author: Yi Zhang
 date: 2018-11-12 16:31:25 -0800
 category:  document
 tags: [Shell,Git,Jekyll]
