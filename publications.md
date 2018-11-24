@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Publications
+author: Yi Zhang
 permalink: /publications/
 ---
 
