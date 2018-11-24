@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "gmtsph-profile: Vertical section mapping using the polar coordinates"
+author: Yi Zhang
 date: 2018-11-16 20:17:51 -0800
 category:  program
 tags: [Shell,GMT]
