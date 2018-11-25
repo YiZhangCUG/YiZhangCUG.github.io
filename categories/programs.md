@@ -1,7 +1,7 @@
 ---
 layout: category
 title: "Programs"
-description: "Description of Project #2"
+description: "Life is easier when you have the right tools."
 header-img: "img/programs-bg.jpeg"
 category: program
 ---
