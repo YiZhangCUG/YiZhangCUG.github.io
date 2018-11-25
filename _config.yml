@@ -1,5 +1,5 @@
 # Site settings
-title: GravTalk
+title: Yi Blog
 description: "It's our wits that make us men."
 url: "https://yizhangcug.github.io"
 
@@ -7,7 +7,7 @@ url: "https://yizhangcug.github.io"
 baseurl: ""
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: img/logos/gravtalk-logo.png
+logo: img/logos/logo-new.png
 
 # Tertiary Parameters
 github_username:  YiZhangCUG
