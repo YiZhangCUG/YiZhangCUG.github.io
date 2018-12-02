@@ -18,11 +18,12 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
-                 <li>
-                    <a href="{{ site.baseurl }}/Gallery/">Gallery</a>
-                </li>
-                <li>
-                    <a rel="nofollow" href="{{ '/resources' | prepend: site.baseurl }}"">Resources</a>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Gallery<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a rel="nofollow" href="{{ site.baseurl }}/PhotoGallery/"">Photographies</a></li>
+                    <li><a rel="nofollow" href="{{ site.baseurl }}/ResourceGallery/">Resources</a></li>
+                  </ul>
                 </li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categories<b class="caret"></b></a>
@@ -58,7 +59,9 @@
                     <li><a rel="nofollow" href="{{ '/publications' | prepend: site.baseurl }}">Publications</a></li>
                     <li><a rel="nofollow"  href="{{ '/books' | prepend: site.baseurl }}">Book list</a></li>
                     <li><a rel="nofollow" href="{{ '/collection' | prepend: site.baseurl }}">Site collection</a></li>
+                    <!--
                     <li><a rel="nofollow" href="{{ '/feed.xml' | prepend: site.baseurl }}">RSS subscription</a></li>
+                    -->
                   </ul>
                 </li>
                 <li>
