@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "netcdf数据可视化--ncview简要使用说明"
+title: "netcdf数据可视化（一）"
+subtitle: "Ncview简要使用说明"
 date: 2018-11-25 14:11:47 -0800
 author: Yi Zhang
 category: program
-tags: [ncview,visualization,tutorial]
+tags: [netcdf,visualization,tutorial]
 header-img: "img/light.jpeg"
 ---
 
