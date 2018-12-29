@@ -13,6 +13,7 @@ header-img: "img/light.jpeg"
 {:toc}
 
 
+[View in toolbox](https://yizhangcug.github.io/Toolbox/2018/12/29/spherical-triangular-tessellation-generator.html)
 
 ## Program Propose
 
