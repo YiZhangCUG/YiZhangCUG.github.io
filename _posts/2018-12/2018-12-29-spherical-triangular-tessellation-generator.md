@@ -3,7 +3,7 @@ layout: post
 title: "Meshing the sphere"
 subtitle: "spherical triangular tessellation(STT) generator"
 author: Yi Zhang
-date: 2018-12-29 10:30: -0800
+date: 2018-12-29 10:30:00 -0800
 category:  program
 tags: [gmsh,visualization,3D modeling]
 header-img: "img/light.jpeg"
@@ -11,6 +11,7 @@ header-img: "img/light.jpeg"
 
 * content
 {:toc}
+
 
 
 ## Program Propose
