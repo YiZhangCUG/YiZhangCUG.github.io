@@ -5,7 +5,7 @@ subtitle: "spherical triangular tessellation(STT) generator"
 author: Yi Zhang
 date: 2018-12-29 10:30:00 -0800
 category:  program
-tags: [gmsh,visualization,3-D modeling]
+tags: [gmsh,visualization,3d modeling]
 header-img: "img/light.jpeg"
 ---
 
