@@ -83,13 +83,13 @@ _Course: Applied Geophysics Seminar and Field Course (seismic, gravity, magnetic
 + Computational Geophysics
 
 ## Publication and talks
-### JOURNAL ARTICLES
+### Journal articles
 Zhang, Y., Mooney, W. D., Chen, C. and Du, J. (2019). Interface inversion of gravitational data using spherical triangular tessellation: An application for the estimation of the Moon’s crustal thickness. Geophysical Journal International (Under review).  
 Zhang, Y., Mooney, W. D., and Chen, C. (2018). Forward calculation of gravitational ﬁelds with variable resolution 3d density models using spherical triangular tessellation: Theory and Applications. Geophysical Journal International, 215(1):363–374. https://doi.org/10.1093/gji/ggy278  
 Zhang, Y., and Chen, C. (2018). Forward calculation of gravity and its gradient using polyhedral representation of density interfaces: an application of spherical or ellipsoidal topographic gravity effect. Journal of Geodesy, 92(2), 205-218. https://doi.org/10.1007/s00190-017-1057-3  
 Zhang, Y., Zhang, SX., Liang, Q. & Chen, C. (2015). Application of boundary identifying technologies using gravity and magnetic maps in 3-D geological mapping of the Western Junggar Area. Earth Science, 40(3), 431~440 (in Chinese).  
 
-### CONFERENCE PRESENTATIONS
+### Conference presentations
 Zhang, Y., Mooney, W. D., and Chen, C., Forward and inverse techniques for gravity data using the spherical triangular tessellation. The AGU Fall Meeting, 2018, Washington D.C., USA. [poster]  
 Zhang, Y., and Chen, C., Forward calculation of gravity and its gradient using polyhedral representation of density interfaces: an application of spherical or ellipsoidal topographic gravity effect. The Gordon Research Conferences: Interior of the Earth, 2017, South Hadley, Massachusetts, USA. [poster]  
 Sun, K., Chen C., Zhang, Y., Comprehensive Geophysical Interpretation – the Thickness Draft of the Cenozoic Sedimentary Layers in Barkul Basin, Xinjiang, China. The AGU Fall Meeting, 2016, San Francisco, CA, USA. [poster]  
@@ -97,27 +97,27 @@ Zhang, Y., Chen, C., Du, JS., Shun, SD., and Liang, Q., Forward modelling method
 Zhang, Y. and Chen, C., Forward modeling method of potential fields based on 3-D Delaunay subdivision. The Chinese Geophysical Society Annual Meeting, 2015, Beijing, China. [talk].  
 Zhang, Y., Zhang, SX., Liang, Q. & Chen, C., Application of boundary identifying technologies using gravity and magnetic maps in 3-D geological mapping of the Western Junggar Area. The Chinese Geophysical Society Annual Meeting, 2014, Beijing, China. [talk].  
 
-### INVITED TALKS
+### Invited talks
 “Gravity map and deduced linear structures of the West Juggar Area, Xinjiang, China deduced from gravity map”, September 2015, Karamay, Xinjiang, China (Host: School of Earth Sciences, CUG)  
 “Characteristics of the Bouguer gravity anomalies of the Guangxi Province, China”, March 2016, Liu Zhou, Guangxi, China (Host: Guangxi Geological Survey)  
 “Forward and inverse techniques of gravitational data using the spherical triangular tessellation”, November 2018, Menlo Park, CA (Host: Walter Mooney)  
 
 ## Computer skills
-### PACKAGES DEVELOPED
+### Packaged developed
 _fracModel_ | Synthetic data generator in 2D and 3D dimensions using the Cartesian or the spherical coordinates. The model is grown from several random seeds following a fractal algorithm, providing regional variations and local details. (C++ with openMP)  
 _gmshinfo_, _gmshset_ | Gmsh (.msh) file inspector and model elements’ property assignment according to tags of physical groups. (C++)  
 _stt_ | Spherical triangular tessellation generator using the spherical coordinates. The grid is constructed based on an icosahedron with options of complex structural refinements over points, trajectories and polygons. Cutting holes and subtracting partial regions. (C++ with openMP)  
 _pyplot_ | Collection of python scripts for quick data plotting based on the Matplotlib. (Python)  
 _gmtplot_ | Collection of shell scripts for quick data plotting based on the GMT. (Shell)  
 
-### PROGRAMING
+### Programing
 Advanced: C++ | Intermediate: Python, Matlab, Shell scripting | Basic: Java scripting, HTML  
 
-### MODELING
+### Modeling
 Finite Element: Gmsh  
 Visualization: Gmsh, Paraview, Meshlab  
 
-### MISCELLANEOUS
+### Miscellaneous
 Document Preparation: LaTeX, Microsoft Office  
 Operation Systems: Unix/Linux, MacOS, Windows  
 Graphics: GMT, Matplotlib, Illustrator  
