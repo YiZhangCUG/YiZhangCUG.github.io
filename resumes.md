@@ -40,10 +40,10 @@ Visiting Scholar, Geophysics, September 2016–Present
 + Outstanding undergraduate graduate of the CUG, 2012
 
 ## Involved scientific projects
-+ International cooperation with Colorado School of Mines and Geoscience Australia Development of algorithms for inverting large-scale gravity and magnetic data in spherical coordinates, 2012–2013 | theory and program development | Adviser: Chao Chen
-+ 3D multi-density structure of the lunar lithosphere: implication to the evolution of the crust and the mantle of the Moon (Chinese Natural Science for Youth Foundation), 2013–2015 | theory and program development | Adviser: Liang Qing, Chao Chen
-+ Inversion theory of large-scale magnetic distribution of the lithosphere (Chinese Natural Science for Youth Foundation), 2015 – 2016 | theory and program development | Adviser: Jinsong Du, Chao Chen
-+ Theoretical study on 3D density imaging of the Earth's mantle under the spherical coordinates (Natural Science Foundation of China), 2016–Present | theory and program development | Adviser: Chao Chen
++ International cooperation with Colorado School of Mines and Geoscience Australia Development of algorithms for inverting large-scale gravity and magnetic data in spherical coordinates, 2012–2013 \| theory and program development \| Adviser: Chao Chen
++ 3D multi-density structure of the lunar lithosphere: implication to the evolution of the crust and the mantle of the Moon (Chinese Natural Science for Youth Foundation), 2013–2015 \| theory and program development \| Adviser: Liang Qing, Chao Chen
++ Inversion theory of large-scale magnetic distribution of the lithosphere (Chinese Natural Science for Youth Foundation), 2015 – 2016 \| theory and program development \| Adviser: Jinsong Du, Chao Chen
++ Theoretical study on 3D density imaging of the Earth's mantle under the spherical coordinates (Natural Science Foundation of China), 2016–Present \| theory and program development \| Adviser: Chao Chen
 
 ## Relevant work experience
 + Graduate Teaching Assistant in the Earth’s Gravitational Field, Institute of Geophysics and Geomatics, CUG, 2016
