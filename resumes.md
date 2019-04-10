@@ -84,10 +84,10 @@ _Course: Applied Geophysics Seminar and Field Course (seismic, gravity, magnetic
 
 ## Publication and talks
 ### Journal articles
-**Zhang, Y.**, Mooney, W. D., Chen, C. and Du, J. (2019). Interface inversion of gravitational data using spherical triangular tessellation: An application for the estimation of the Moon’s crustal thickness. Geophysical Journal International (Accepted).  
-**Zhang, Y.**, Mooney, W. D., and Chen, C. (2018). Forward calculation of gravitational ﬁelds with variable resolution 3d density models using spherical triangular tessellation: Theory and Applications. Geophysical Journal International, 215(1):363–374. [https://doi.org/10.1093/gji/ggy278](https://doi.org/10.1093/gji/ggy278)  
-**Zhang, Y.**, and Chen, C. (2018). Forward calculation of gravity and its gradient using polyhedral representation of density interfaces: an application of spherical or ellipsoidal topographic gravity effect. Journal of Geodesy, 92(2), 205-218. [https://doi.org/10.1007/s00190-017-1057-3](https://doi.org/10.1007/s00190-017-1057-3)  
-**Zhang, Y.**, Zhang, SX., Liang, Q. & Chen, C. (2015). Application of boundary identifying technologies using gravity and magnetic maps in 3-D geological mapping of the Western Junggar Area. Earth Science, 40(3), 431~440 (in Chinese).  
+**Zhang, Y.**, Mooney, W. D., Chen, C. and Du, J. (2019). Interface inversion of gravitational data using spherical triangular tessellation: An application for the estimation of the Moon’s crustal thickness. *Geophysical Journal International*, *217*(1):703-713. [https://doi.org/10.1093/gji/ggz026](https://doi.org/10.1093/gji/ggz026)  
+**Zhang, Y.**, Mooney, W. D., and Chen, C. (2018). Forward calculation of gravitational ﬁelds with variable resolution 3d density models using spherical triangular tessellation: Theory and Applications. *Geophysical Journal International*, *215*(1):363–374. [https://doi.org/10.1093/gji/ggy278](https://doi.org/10.1093/gji/ggy278)  
+**Zhang, Y.**, and Chen, C. (2018). Forward calculation of gravity and its gradient using polyhedral representation of density interfaces: an application of spherical or ellipsoidal topographic gravity effect. *Journal of Geodesy*,*92*(2), 205-218. [https://doi.org/10.1007/s00190-017-1057-3](https://doi.org/10.1007/s00190-017-1057-3)  
+**Zhang, Y.**, Zhang, SX., Liang, Q. & Chen, C. (2015). Application of boundary identifying technologies using gravity and magnetic maps in 3-D geological mapping of the Western Junggar Area. *Earth Science*, *40*(3), 431~440 (in Chinese).  
 
 ### Conference presentations
 **Zhang, Y.**, Mooney, W. D., and Chen, C., Forward and inverse techniques for gravity data using the spherical triangular tessellation. The AGU Fall Meeting, 2018, Washington D.C., USA. [poster]  
