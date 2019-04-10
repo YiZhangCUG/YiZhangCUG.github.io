@@ -33,8 +33,9 @@ header-img: "img/gravity-wave.jpg"
 
 func.h
 ```cpp
-    #ifndef _FUNC_H
-    #define _FUNC_H
+    \#ifndef _FUNC_H
+    \#define _FUNC_H
+
     double func_f(double x[])
     {
         double f0,f1,f2;
@@ -61,13 +62,13 @@ func.h
 
 main.cpp
 ```cpp
-    #include "iostream"
-    #include "fstream"
-    #include "string"
-    #include "cmath"
-    #include "stdio.h"
-    #include "stdlib.h"
-    #include "func.h"
+    \#include "iostream"
+    \#include "fstream"
+    \#include "string"
+    \#include "cmath"
+    \#include "stdio.h"
+    \#include "stdlib.h"
+    \#include "func.h"
     
     using namespace std;
     
