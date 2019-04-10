@@ -33,6 +33,7 @@ header-img: "img/gravity-wave.jpg"
 
 func.h
 ```cpp
+
     #ifndef _FUNC_H  
     #define _FUNC_H
 
@@ -62,6 +63,7 @@ func.h
 
 main.cpp
 ```cpp
+
     #include "iostream"  
     #include "fstream"  
     #include "string"  
