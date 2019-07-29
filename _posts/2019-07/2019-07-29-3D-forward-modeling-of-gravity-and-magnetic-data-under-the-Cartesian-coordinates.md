@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "3D forward modeling of gravity and magnetic data under the Cartesian coordinates."
-date: 2019-07-29 11:49:16 +0800
+date: 2019-07-29 11:51:42 +0800
 author: Yi Zhang
-category: Null
-tags: [Null]
+category: software
+tags: [Gmsh,3d modeling]
 ---
 
 * content
@@ -60,11 +60,11 @@ Usage: gm3d [-i<input-msh-file>] [-o<output-msh-file>] [-f<output-data-file>] [-
 
 ### model parameters
 
-There are four model types currently supported by the program, which are __regular block__, __tilted block__, __sphere__ and __interface__. The program use key words to specify a model's type and associated geometric and physical properties. Therefore, an entrance of model parameters has following parts:
+There are four model types currently supported by the program, which are __regular block__, __tilted block__, __sphere__ and __interface__. The program use key words to specify a model's type and associated geometric and physical properties. Therefore, an entrance of model parameters has following parts:   
 
 <model_type> <value_type> <physical_property> <geometric_property>
 
-Formats of these key words for different models will be discussed below. Subsequently, the model file are made up by individual entrances of model parameters. Note that any line starts with "#" will be skipped.
+Formats of these key words for different models will be discussed below. Subsequently, the model file are made up by individual entrances of model parameters. Note that any line starts with "#" will be skipped.   
 
 #### regular block
 
